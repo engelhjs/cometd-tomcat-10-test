@@ -2,7 +2,9 @@
 
 Project to test CometD on Tomcat 10.
 
-On CometD 8, a handshake request results in the following exception:
+With Cometd 7, handshake requests work fine.
+
+With CometD 8, a handshake request results in the following exception:
 
 ```json
 [
